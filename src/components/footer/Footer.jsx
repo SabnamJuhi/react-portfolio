@@ -36,7 +36,7 @@ const Footer = () => {
             </div>
 
             <span className='footer__copy'>
-                &#169; Ashit {new Date().getFullYear()} All rights reserved.
+                &#169; Juhi {new Date().getFullYear()} All rights reserved.
             </span>
         </div>
     </footer>
