@@ -29,9 +29,9 @@ const Qualification = () => {
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Matriculation</h3>
-                                <span className="qualification__subtitle">Adarsh Vikas Vidyalaya</span>
+                                <span className="qualification__subtitle">Tapan Balika Vidyalaya</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2011 - 2012
+                                    <i className="uil uil-calendar-alt"></i> 2010 - 2011
                                 </div>
                             </div>
 
@@ -51,9 +51,9 @@ const Qualification = () => {
 
                             <div>
                                 <h3 className="qualification__title">Intermediate</h3>
-                                <span className="qualification__subtitle">The Earth Public School</span>
+                                <span className="qualification__subtitle">Gangarampur High School</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2012 - 2015
+                                    <i className="uil uil-calendar-alt"></i> 2011 - 2013
                                 </div>
                             </div>
                         </div>
@@ -61,9 +61,9 @@ const Qualification = () => {
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Under Graduation</h3>
-                                <span className="qualification__subtitle">Sagar Institue od Science and Technology</span>
+                                <span className="qualification__subtitle">Aliah University</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2015 - 2019
+                                    <i className="uil uil-calendar-alt"></i> 2013 - 20116
                                 </div>
                             </div>
 
